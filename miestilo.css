@@ -1,0 +1,39 @@
+
+         /* Selector Simple */
+         h2 {
+            text-align: "center";
+        }
+        /* Selector Universal */
+        * {
+            font-family: "arial" ;
+        }
+        /* Selector de ID */
+        #p1 {
+            color: red;
+        }
+        /* Selectores de Clase */
+        .cajaprincipal {
+            position: absolute;
+            
+        }
+        .cajaizq {
+            position: absolute; 
+            width: 350px; 
+            height:350px; 
+            border: 2px solid green;
+         }
+        .cajader {
+            position: absolute; 
+            left:385px; 
+            width: 900px; 
+            height: 650px; 
+            border: 2px solid green;
+        }
+        .cajapie {
+            position: relative; 
+            left: 385px;
+            top : 700px;
+            width: 650px; 
+            height: 50px; 
+            border: 2px solid green;
+        }
